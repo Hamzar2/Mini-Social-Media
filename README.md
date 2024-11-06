@@ -61,7 +61,7 @@ The `MiniSocial` contract serves as a foundational example of a decentralized ap
 - **Decentralized Interaction (MetaMask)**: MetaMask empowers users to directly interact with the contract, eliminating the need for intermediaries and giving users greater control over their data.
 
 <p align="center">
-  <img src="C:\Users\DR2\Desktop\IASD\S3\Blockchain\MiniSocial\vite-project\src\assets\221524.png" alt="Contract Structure" width="30%" />
-  <img src="C:\Users\DR2\Desktop\IASD\S3\Blockchain\MiniSocial\vite-project\src\assets\221604.png" alt="MetaMask Interface" width="30%" />
-  <img src="C:\Users\DR2\Desktop\IASD\S3\Blockchain\MiniSocial\vite-project\src\assets\221619.png" alt="Sepolia Test Network Transaction" width="30%" />
+  <img src="vite-project\src\assets\221524.png" alt="Contract Structure" width="30%" />
+  <img src="vite-project\src\assets\221604.png" alt="MetaMask Interface" width="30%" />
+  <img src="vite-project\src\assets\221619.png" alt="Sepolia Test Network Transaction" width="30%" />
 </p>
