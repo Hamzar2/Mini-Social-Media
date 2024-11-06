@@ -1,4 +1,4 @@
-# Decentralized Mini Social Network Application: An Enhanced Report
+# Decentralized Mini Social Network Application
 
 This report provides a comprehensive overview of the design, implementation, and functionality of a decentralized mini social network application built using Solidity, Remix IDE, MetaMask, and the Sepolia test network.
 
